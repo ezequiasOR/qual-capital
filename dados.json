@@ -1,0 +1,139 @@
+{
+  "estados": [
+    {
+      "id": 1,
+      "estado": "Acre (AC)",
+      "capital": "Rio Branco"
+    },
+    {
+      "id": 2,
+      "estado": "Alagoas (AL)",
+      "capital": "Maceió"
+    },
+    {
+      "id": 3,
+      "estado": "Amapá (AP)",
+      "capital": "Macapá"
+    },
+    {
+      "id": 4,
+      "estado": "Amazonas (AM)",
+      "capital": "Manaus"
+    },
+    {
+      "id": 5,
+      "estado": "Bahia (BA)",
+      "capital": "Salvador"
+    },
+    {
+      "id": 6,
+      "estado": "Ceará (CE)",
+      "capital": "Fortaleza"
+    },
+    {
+      "id": 7,
+      "estado": "Distrito Federal (DF)",
+      "capital": "Brasília"
+    },
+    {
+      "id": 8,
+      "estado": "Espírito Santo (ES)",
+      "capital": "Vitória"
+    },
+    {
+      "id": 9,
+      "estado": "Goiás (GO)",
+      "capital": "Goiânia"
+    },
+    {
+      "id": 10,
+      "estado": "Maranhão (MA)",
+      "capital": "São Luís"
+    },
+    {
+      "id": 11,
+      "estado": "Mato Grosso (MT)",
+      "capital": "Cuiabá"
+    },
+    {
+      "id": 12,
+      "estado": "Mato Grosso do Sul (MS)",
+      "capital": "Campo Grande"
+    },
+    {
+      "id": 13,
+      "estado": "Minas Gerais (MG)",
+      "capital": "Belo Horizonte"
+    },
+    {
+      "id": 14,
+      "estado": "Pará (PA)",
+      "capital": "Belém"
+    },
+    {
+      "id": 15,
+      "estado": "Paraíba (PB)",
+      "capital": "João Pessoa"
+    },
+    {
+      "id": 16,
+      "estado": "Paraná (PR)",
+      "capital": "Curitiba"
+    },
+    {
+      "id": 17,
+      "estado": "Pernambuco (PE)",
+      "capital": "Recife"
+    },
+    {
+      "id": 18,
+      "estado": "Piauí (PI)",
+      "capital": "Teresina"
+    },
+    {
+      "id": 19,
+      "estado": "Rio de Janeiro (RJ)",
+      "capital": "Rio de Janeiro"
+    },
+    {
+      "id": 20,
+      "estado": "Rio Grande do Norte (RN)",
+      "capital": "Natal"
+    },
+    {
+      "id": 21,
+      "estado": "Rio Grande do Sul (RS)",
+      "capital": "Porto Alegre"
+    },
+    {
+      "id": 22,
+      "estado": "Rondônia (RO)",
+      "capital": "Porto Velho"
+    },
+    {
+      "id": 23,
+      "estado": "Roraima (RR)",
+      "capital": "Boa Vista"
+    },
+    {
+      "id": 24,
+      "estado": "Santa Catarina (SC)",
+      "capital": "Florianópolis"
+    },
+    {
+      "id": 25,
+      "estado": "São Paulo (SP)",
+      "capital": "São Paulo"
+    },
+    {
+      "id": 26,
+      "estado": "Sergipe (SE)",
+      "capital": "Aracaju"
+    },
+    {
+      "id": 27,
+      "estado": "Tocantins (TO)",
+      "capital": "Palmas"
+    }
+  ]
+}

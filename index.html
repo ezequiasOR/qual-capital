@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+  <h1>Qual é a capital?</h1>
+
+  <form action="">
+
+    <div>
+      <label for="estado">Estado:</label>
+      <input id="estado-output" type="text" disabled name="estado">
+    </div>
+    
+    <div>
+      <label for="capital">Capital:</label>
+      <input id="capital-input" type="text" name="capital" placeholder="Digite o nome da capital">
+    </div>
+    
+    <div>
+      <button id="button" type="submit" onclick="verifica(event)">Verificar</button>
+    </div>
+
+  </form>
+
+  <div id="resultado"></div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
